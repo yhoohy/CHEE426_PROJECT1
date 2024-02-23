@@ -1,5 +1,5 @@
 # CHEE426_PROJECT1
-Repository for project 1 of CHEE 426 Machine Learning
+Repository for CHEE 426 Machine Learning Project 1 - 2 (Remaining project for this course still in progress
 
 Visit UL Lafayette: https://louisiana.edu/
 CHEE 426 Machine Learning course (Spring 2024)
